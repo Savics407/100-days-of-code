@@ -8,8 +8,9 @@
 
 **Thoughts:** I will be working with Markdown and be able to updated my log everyday with my progress. and I also publicly committed to the challenge on twitter.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to Public Repo:** [100DaysOfCode](https://github.com/Savics407/100-days-of-code/blob/master/log.md)
 
+<!--
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -19,4 +20,4 @@
 **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
