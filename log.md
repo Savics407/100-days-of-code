@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log Victor Adighibe [Savics]
 
-### Day 0: June 16, 2022 (Example 1)
+### Day 0: June 16, 2022
 
 <!-- ##### (delete me or comment me out) -->
 
@@ -10,13 +10,13 @@
 
 **Link to Public Repo:** [100DaysOfCode](https://github.com/Savics407/100-days-of-code/blob/master/log.md)
 
+### Day 1: June 17, Friday
+
+**Today's Progress**: I've gone through many exercises on command line and git commands using the terminal.
+
+**Thoughts** It gave me some tough moments that I just want to close my laptop and do some other thing, well I believe that with constant practice I would be able to get at it and definately become a pro with branching and merging my works using github.
+
 <!--
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
 **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
