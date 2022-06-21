@@ -26,7 +26,13 @@
 
 **Today's Progress**: Took some time off to review my plan for the 100DaysOfCode Challenge and Did some study too.
 
-**Thoughts** Its really to start and keep at a thing, most times constant motivation is a necessary factor.. well let's code atleast 1 hours every day that's the goal.
+**Thoughts** Its really hard to start and keep at a thing, most times constant motivation is a necessary factor.. well let's code atleast 1 hours every day that's the goal.
+
+### Day 5: June 21, Tuesday
+
+**Today's Progress**: Was able to revisit my git commands hence working on branching and merging branches
+
+**Thoughts** It's really fun being able to work on a project together with your peers or co-workers and learning git gives you the leverage to execute such.
 
 <!--
 **Link(s) to work**
