@@ -34,6 +34,18 @@
 
 **Thoughts** It's really fun being able to work on a project together with your peers or co-workers and learning git gives you the leverage to execute such.
 
+### Day 6: June 22, Wednesday
+
+**Today's Progress**: Attempted some projects on the ALX AFrica Software Engineeering Program
+
+**Thoughts** Tying a project to any skill you are learning gives you a first hand approach to the skill hence giving you the experience and understanding you need for that skill
+
+### Day 7: June 23, Thursday
+
+**Today's Progress**: Started working on my Reactjs and Vanilla projects
+
+**Thoughts** I plan to create a JavaScript Component Using both VanillaJs and ReactJs for eac project hence having them documented via an index file for visibility purposes
+
 <!--
 **Link(s) to work**
 
