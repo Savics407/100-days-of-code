@@ -46,6 +46,16 @@
 
 **Thoughts** I plan to create a JavaScript Component Using both VanillaJs and ReactJs for eac project hence having them documented via an index file for visibility purposes
 
+### Day 8: June 24, Friday
+
+**Today's Progress**: Code free day!
+
+### Day 9: June 25, Saturday
+
+**Today's Progress**: Went for a tech event at #IOextendedph22 GDG Community
+
+**Thoughts** The event really worth my time and I learnt a lot, however, a striking moment for me was when one of the speakers dealt on Functional Programming. Figured that functional programming is declarative in nature and not imperative in the sense that you don't need to bother yourself with how the codes works as far as it's giving you the end result you so desire.
+
 <!--
 **Link(s) to work**
 
