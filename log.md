@@ -56,6 +56,30 @@
 
 **Thoughts** The event really worth my time and I learnt a lot, however, a striking moment for me was when one of the speakers dealt on Functional Programming. Figured that functional programming is declarative in nature and not imperative in the sense that you don't need to bother yourself with how the codes works as far as it's giving you the end result you so desire.
 
+### Day 10: June 26, Sunday
+
+**Today's Progress**: Started Working on a new project with Reactjs and tailwindCSS
+
+**Thoughts**: This is my first time of working with tailwindCSS and I am doing this with react, however, in this 100DaysOfCOde challenge I am set to do all my frontend projects with tailwindCSS. This will further help me to grasp all the basic utilities of TailwindCSS hence perfecting my ReactJS Skills.
+
+### Day 11: June 27, Monday
+
+**Today's Progress**: Completed the authentication page
+
+**Thoughts**: Haven worked with TailwindCss I think and I know that future projects will be done using tailwindCss. I think I love the flow and how easy it is to add responsiveness to your elements.
+
+### Day 12: June 28, Tuesday
+
+**Today's Progress**: Worked on the Responsiveness for the ReactJs project using TailwindCss
+
+**Thoughts** For responsiveness, tailwindCSS is just the best. I learnt how to use the @apply rule for implementing tailwindCss utilities on an external css file.
+
+### Day 13: June 29, Wednesday
+
+**Today's Progress**: I am set to learn how to work with API's and form validation
+
+**Thoughts** I am finding it difficult to integrate an API using ReactJS, well I would be making some bit of research to finally have a grasp of how it works.
+
 <!--
 **Link(s) to work**
 
