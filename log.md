@@ -80,6 +80,40 @@
 
 **Thoughts** I am finding it difficult to integrate an API using ReactJS, well I would be making some bit of research to finally have a grasp of how it works.
 
+### Day 14: June 30, Thursday
+
+**Today's Progress**: Finally Worked with API integration using POSTMAN API
+
+**Thoughts** it wasn't that easy as I thought it would.
+
+### Day 15: July 1, Friday
+
+**Today's Progress**: Resolved some post errors on form validation with the API
+
+**Thoughts** Using the browser console I was able to track my post submission, checking if it was successful or not.
+
+### Day 16 - 17: July 2-3, Saturday - Sunday
+
+**Today's Progress**: I finished working on the Authentication page for the APP
+
+**Thoughts** Using the help of a peer I was able to debug the errors I was having with my code, hence was able to finish working on the authentication page for the Project.
+
+### Day 18: July 4, Monday
+
+**Today's Progress**: I started working on the dashboard of the project using react.
+
+**Thoughts** It's quite easy and flexible to work with an existing UI than coming up with your default desings while coding the interface of an app.
+
+### Day 19: July 5, Tuesday
+
+**Today's Progress**: Code free Day. Went for my International passport capturing and it took the whole of my day
+
+### Day 20: July 6, Wednesday
+
+**Today's Progress**: I completed the dashboard home screen
+
+**Thoughts** Learnt how to use an SVG to craft circles
+
 <!--
 **Link(s) to work**
 
