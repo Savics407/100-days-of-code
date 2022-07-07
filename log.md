@@ -114,6 +114,12 @@
 
 **Thoughts** Learnt how to use an SVG to craft circles
 
+### Day 21: July 7, Thursday
+
+**Today's Progress**: Still making progress on the web app project with reactjs
+
+**Thoughts** Due to enhancement of Speed I will focus on building all the screens then take the time necessary to add their functionalities hence learning how to switch between components.
+
 <!--
 **Link(s) to work**
 
