@@ -120,6 +120,23 @@
 
 **Thoughts** Due to enhancement of Speed I will focus on building all the screens then take the time necessary to add their functionalities hence learning how to switch between components.
 
+### Day 22: July 8, Friday
+
+**Today's Progress**: Still making progress on the web app project with reactjs
+
+**Thoughts** I managed to finish up all the screens needed to be built next will be to work on their functionalities and API integrations.
+
+### Day 23: July 9, Saturday
+
+**Today's Progress**: Coupled a site for a client
+
+**Thoughts** took some time off to work on a clients site.
+
+### Day 23: July 10, Sunday
+
+**Today's Progress**: Code free Day
+**Thoughts** Had a little travel across state.
+
 <!--
 **Link(s) to work**
 
