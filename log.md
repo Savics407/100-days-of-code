@@ -132,13 +132,53 @@
 
 **Thoughts** took some time off to work on a clients site.
 
-### Day 23: July 10, Sunday
+### Day 24: July 10, Sunday
 
 **Today's Progress**: Code free Day
 **Thoughts** Had a little travel across state.
 
+### Day 25: July 11, Monday
+
+**Today's Progress**: Paystack Integration
+
+**Thoughts** I was able to integrate a payment gateway into the React APP I was building using PayStack API Documentation for this purpose. Over the days my thinking and reasoning pattern have greatly increased! I now see things in details beyond the obvious things others would notice.
+
+### Day 26: July 12, Tuesday
+
+**Today's Progress**: Started Validating the Authentication page
+
+**Thoughts** Had a slight power challenge hence I took some time to rest.
+
+### Day 27: July 13, Wednesday
+
+**Today's Progress**: Continued making progress on the validation
+
+**Thoughts** It's quite fun having the power to control an Apps behavior.
+
+### Day 28 - 29: July 14 - 15, Thursday - Friday
+
+**Today's Progress**: Revisited the Setup page for the app
+
+**Thoughts** I had an issue using the fetch API request due to CORS policy, I have been able to make some research and I discovered that it secures a server from being accessed from unknown origins.
+
+### Day 30 - 36: July 16 - 22, Saturday - Friday
+
+**Today's Progress**: Learnt how to use API end points to fetch dynamic data from the database
+
+**Thoughts** Honestly the best way to learn programming is to work on projects, working on projects gives you a firsthand experience to the programs application. Perfecting my knowledge in react have been quite fun.
+
+### Day 37 - 38: July 23 - 24, Saturday - Sunday
+
+**Today's Progress**: Sent my first real reactjs project out for testing and reviews
+
+**Thoughts** I am beginning to think writing reactJs is quite simpler than writing pure/ vanilla JavaScript. Yeah in as much as the knowledge of vanilla js is needed, it is quite easier to build complex web applications using react. My thoughts tho and this is Day 38th of the Hundred days of code challenge.
+
+**Link(s) to work**
+
+1. [REIC Investment Platfrom](https://reic-frontend.vercel.app)
 <!--
 **Link(s) to work**
 
+
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+1. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
